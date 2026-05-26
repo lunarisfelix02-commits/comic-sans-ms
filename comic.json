@@ -1,0 +1,8 @@
+{
+    "spec": 1,
+    "name": "Comic Sans MS Bold",
+    "previewText": "Comic Sans MS Bold",
+    "main": {
+        "ggsans-Normal": "https://raw.githubusercontent.com/lunarisfelix02-commits/comic-sans-ms/main/comic-sans-bold.ttf"
+    }
+}
