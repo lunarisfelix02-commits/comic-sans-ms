@@ -1,0 +1,14 @@
+{
+    "spec": 1,
+    "name": "Comic Sans MS Bold",
+    "previewText": "Comic Sans MS Bold",
+    "main": {
+        "ggsans-Normal": "https://raw.githubusercontent.com/lunarisfelix02-commits/comic-sans-ms/main/comic-sans-bold.ttf",
+        "ggsans-Bold": "https://raw.githubusercontent.com/lunarisfelix02-commits/comic-sans-ms/main/comic-sans-bold.ttf",
+        "ggsans-Semibold": "https://raw.githubusercontent.com/lunarisfelix02-commits/comic-sans-ms/main/comic-sans-bold.ttf",
+        "ggsans-Medium": "https://raw.githubusercontent.com/lunarisfelix02-commits/comic-sans-ms/main/comic-sans-bold.ttf",
+        "NotoSans-Normal": "https://raw.githubusercontent.com/lunarisfelix02-commits/comic-sans-ms/main/comic-sans-bold.ttf",
+        "NotoSans-Bold": "https://raw.githubusercontent.com/lunarisfelix02-commits/comic-sans-ms/main/comic-sans-bold.ttf",
+        "ggmono-Normal": "https://raw.githubusercontent.com/lunarisfelix02-commits/comic-sans-ms/main/comic-sans-bold.ttf"
+    }
+}
