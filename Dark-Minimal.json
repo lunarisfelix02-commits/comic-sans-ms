@@ -1,0 +1,145 @@
+{
+  "name": "Dark Minimal",
+  "description": "Dark UI",
+  "version": "1.3.0",
+  "authors": [
+    {
+      "name": "LunarisFelix"
+    }
+  ],
+  "spec": 2,
+
+  "semanticColors": {
+    "HEADER_PRIMARY": ["#FFFFFF"],
+    "HEADER_SECONDARY": ["#B5BAC1"],
+
+    "TEXT_NORMAL": ["#FFFFFF"],
+    "TEXT_MUTED": ["#A3A6AA"],
+    "TEXT_PRIMARY": ["#FFFFFF"],
+
+    "TEXT_LINK": ["#04D9FF"],
+
+    "INTERACTIVE_NORMAL": ["#C7C9CC"],
+    "INTERACTIVE_HOVER": ["#FFFFFF"],
+    "INTERACTIVE_ACTIVE": ["#FFFFFF"],
+    "INTERACTIVE_MUTED": ["#6D6F78"],
+
+    "BACKGROUND_PRIMARY": ["#000000"],
+    "BACKGROUND_SECONDARY": ["#0A0A0A"],
+    "BACKGROUND_SECONDARY_ALT": ["#111111"],
+    "BACKGROUND_TERTIARY": ["#151515"],
+
+    "BG_BASE_PRIMARY": ["#000000"],
+    "BG_BASE_SECONDARY": ["#0A0A0A"],
+    "BG_BASE_TERTIARY": ["#151515"],
+
+    "BACKGROUND_ACCENT": ["#1F1F1F"],
+
+    "BACKGROUND_MOBILE_PRIMARY": ["#000000"],
+    "BACKGROUND_MOBILE_SECONDARY": ["#0A0A0A"],
+
+    "BACKGROUND_MODIFIER_HOVER": ["#141414"],
+    "BACKGROUND_MODIFIER_ACTIVE": ["#1A1A1A"],
+    "BACKGROUND_MODIFIER_SELECTED": ["#2A2A2A"],
+    "BACKGROUND_MODIFIER_ACCENT": ["#2A2A2A"],
+
+    "BACKGROUND_MESSAGE_HOVER": ["#111111"],
+
+    "BACKGROUND_MENTIONED": ["#2A2A2A33"],
+    "BACKGROUND_MENTIONED_HOVER": ["#2A2A2A44"],
+
+    "CHANNELTEXTAREA_BACKGROUND": ["#050505"],
+
+    "CHANNELS_DEFAULT": ["#FFFFFF"],
+    "CHANNEL_ICON": ["#B5BAC1"],
+
+    "REDESIGN_ACTIVITY_CARD_BACKGROUND": ["#0D0D0D"],
+    "REDESIGN_CHAT_INPUT_BACKGROUND": ["#0A0A0A"],
+
+    "REDESIGN_BUTTON_SECONDARY_BACKGROUND": ["#111111"],
+    "REDESIGN_BUTTON_SECONDARY_BORDER": ["#2B2D31"],
+
+    "REDESIGN_BUTTON_TERTIARY_BACKGROUND": ["#151515"],
+
+    "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": ["#B5BAC1"],
+    "REDESIGN_CHANNEL_NAME_TEXT": ["#FFFFFF"],
+
+    "THREAD_CHANNEL_SPINE": ["#2B2D31"]
+  },
+
+  "rawColors": {
+    "PRIMARY_100": "#FFFFFF",
+    "PRIMARY_200": "#FFFFFF",
+    "PRIMARY_330": "#C7C9CC",
+    "PRIMARY_360": "#A3A6AA",
+    "PRIMARY_400": "#6D6F78",
+    "PRIMARY_460": "#000000",
+    "PRIMARY_500": "#2B2D31",
+    "PRIMARY_530": "#2B2D31",
+    "PRIMARY_600": "#0A0A0A",
+    "PRIMARY_630": "#111111",
+    "PRIMARY_645": "#151515",
+    "PRIMARY_660": "#1A1A1A",
+    "PRIMARY_700": "#222222",
+    "PRIMARY_800": "#050505",
+
+    "BRAND_230": "#2B2D31",
+    "BRAND_260": "#2B2D31",
+    "BRAND_360": "#2B2D31",
+    "BRAND_500": "#2B2D31",
+    "BRAND_560": "#FFFFFF",
+
+    "RED_260": "#F23F43",
+
+    "BLUE_330": "#2B2D31",
+    "BLUE_345": "#2B2D31",
+
+    "WHITE_500": "#FFFFFF",
+    "WHITE_630": "#B5BAC1",
+
+    "PLUM_3": "#FFFFFF",
+    "PLUM_4": "#C7C9CC",
+    "PLUM_6": "#A3A6AA",
+    "PLUM_10": "#2B2D31",
+    "PLUM_11": "#0A0A0A",
+    "PLUM_15": "#111111",
+    "PLUM_16": "#2B2D31",
+    "PLUM_17": "#151515",
+    "PLUM_20": "#050505"
+  },
+
+  "plus": {
+    "version": "1",
+    "customOverlays": true,
+
+    "icons": {
+      "StatusOnline": "#23A55A",
+      "StatusIdle": "#F0B232",
+      "StatusDND": "#F23F43",
+      "StatusStreaming": "#593695",
+      "StatusOffline": "#80848E",
+      "StatusMobileOnline": "#23A55A"
+    },
+
+    "highlight": {
+      "effect": "none",
+      "color": "#2B2D31"
+    }
+  },
+
+  "background": {
+    "blur": 0.05,
+    "alpha": 0.2
+  },
+
+  "animations": {
+    "hover": {
+      "card": "none",
+      "button": "none"
+    },
+
+    "click": {
+      "button": "ripple"
+    }
+  }
+}
